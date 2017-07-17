@@ -28,10 +28,10 @@ switch(action){
 //Scripts for each NPM
 	function twitter(){
 		var client = new Twitter({
-			consumer_key: 'xHlEli2wrdfje2EspzMx1x3Av',
-			consumer_secret:'c9tGETIBCXkaCkMh6jmdK0UR9VGbpNmju4WYKLEsyfM8F60ZNR',
-			access_token_key:'883485911375167488-ebjwoad30hgFHjO6ziwn6t51jqL3PO9', 
-			access_token_secret:'jb8XzeEjTxUjP3HLKcue4itl6G4L7TpZfslbHIqpIqdwh'
+			consumer_key: '',
+			consumer_secret:'',
+			access_token_key:'', 
+			access_token_secret:''
 		});
 		var params = {screen_name: 'Dov Vah Kiin', count: 20};
 		
